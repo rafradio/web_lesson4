@@ -8,8 +8,8 @@
 
 Вэб-страничка с Post запросом и отправкой данных в MySQL:
 * в папке webSitePHPPost находятся:
-* index.php - основной файл;
-* sqlInsertPHP.php - подгрузка модуля с классом;
+* index.php - основной файл, где обрабатывается post-запрос;
+* sqlInsertPHP.php - подгрузка модуля с классом, с методом отправдяющим в Mysql;
 * style.css;
 * animation.js;
 * jpg файл;
